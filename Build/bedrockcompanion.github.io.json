@@ -1,7 +1,7 @@
 {
 "companyName": "Bedrock Games",
 "productName": "Bedrock Companion",
-"productVersion": "1.0.2",
+"productVersion": "1.0.3",
 "dataUrl": "bedrockcompanion.github.io.data.unityweb",
 "wasmCodeUrl": "bedrockcompanion.github.io.wasm.code.unityweb",
 "wasmFrameworkUrl": "bedrockcompanion.github.io.wasm.framework.unityweb",
